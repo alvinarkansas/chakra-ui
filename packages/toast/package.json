@@ -36,6 +36,8 @@
     "@chakra-ui/alert": "1.3.7",
     "@chakra-ui/close-button": "1.2.7",
     "@chakra-ui/hooks": "1.9.0",
+    "@chakra-ui/portal": "1.3.9",
+    "@chakra-ui/react-utils": "1.2.3",
     "@chakra-ui/theme": "1.14.0",
     "@chakra-ui/transition": "1.4.7",
     "@chakra-ui/utils": "1.10.4",
@@ -44,8 +46,8 @@
   "devDependencies": {
     "@chakra-ui/system": "1.12.0",
     "framer-motion": "^4.0.0",
-    "react": "^17.0.1",
-    "react-dom": "^17.0.2"
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
   },
   "peerDependencies": {
     "@chakra-ui/system": ">=1.0.0",
