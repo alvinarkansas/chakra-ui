@@ -1,5 +1,18 @@
 # Change Log
 
+## 1.8.11
+
+### Patch Changes
+
+- [#5782](https://github.com/chakra-ui/chakra-ui/pull/5782)
+  [`a70077ea4`](https://github.com/chakra-ui/chakra-ui/commit/a70077ea4fe64a4ab58a7029c7a62f55684e8241)
+  Thanks [@segunadebayo](https://github.com/segunadebayo)! - Fix issue where
+  menu items cannot type `type=submit`
+
+- Updated dependencies
+  [[`a3b04dc1a`](https://github.com/chakra-ui/chakra-ui/commit/a3b04dc1ae49ad0d804bddc17fdca3afa218665c)]:
+  - @chakra-ui/hooks@1.9.1
+
 ## 1.8.10
 
 ### Patch Changes
